@@ -10,4 +10,8 @@ requests
 beautifulsoup4
 lxml
 joblib
-python-dotenv 
+python-dotenv
+loguru
+pytest
+pytest-cov
+aiohttp 
